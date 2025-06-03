@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.dbclient-js": "javascript",
         "*.embeddedhtml": "html",
         "*.c": "c",
         "array": "cpp",
@@ -42,7 +43,20 @@
         "sstream": "cpp",
         "stdexcept": "cpp",
         "streambuf": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "bit": "cpp",
+        "charconv": "cpp",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "ctime": "cpp",
+        "optional": "cpp",
+        "string_view": "cpp",
+        "format": "cpp",
+        "iomanip": "cpp",
+        "numbers": "cpp",
+        "span": "cpp",
+        "text_encoding": "cpp",
+        "variant": "cpp"
     },
     "github.copilot.chat.agent.autoFix": false
 }

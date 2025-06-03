@@ -22,16 +22,16 @@ int main()
     }
 
     // Print an array using while loop
-    // int i = 0;
-    // while (i < arr[i])
-    // {
-    //     cout << arr[i] << endl;
-    //     i++;
-    // }
+    int i = 0;
+    while (i < arr[i])
+    {
+        cout << arr[i] << endl;
+        i++;
+    }
 
     // Print the size of an array according to datatype like intger take 4 byte for one element so in the above array we have 4 elements so it takes 16 bytes and we have memory address of arr not arr[i](elements address of array)
 
-    // cout << sizeof(arr) << endl;
-    // cout << arr << endl;
-    // return 0;
+    cout << sizeof(arr) << endl;
+    cout << arr << endl;
+    return 0;
 }
