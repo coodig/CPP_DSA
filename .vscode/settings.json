@@ -58,5 +58,6 @@
         "text_encoding": "cpp",
         "variant": "cpp"
     },
-    "github.copilot.chat.agent.autoFix": false
+    "github.copilot.chat.agent.autoFix": false,
+    "C_Cpp.errorSquiggles": "disabled"
 }

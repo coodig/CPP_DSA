@@ -1,2 +1,5 @@
 1. sum of all numbers from 1 to N which are divisible by 3.
 2. print factorial of a numbers.
+
+incomplete::
+playground.cpp

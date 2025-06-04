@@ -15,11 +15,14 @@ void printArray(int arr[],int size){
         cout<<arr[i]<<" ";
     }
 }
+
+// Kadan's algo for create the subarray of an array
+
 void kadanAlgo(int arr[], int size){
     for(int start=0;start<size;start++){
         for(int end=start;end<size;end++){
             for(int i=start;i<=end;i++){
-                cout<<arr[i];
+                cout<<arr[i]<<" ";
             }
             cout<<" ";
         }
