@@ -113,3 +113,26 @@
 93. Flatten Binary Tree to Linked List
 94. Binary Search Trees (BSTs)
 95. Sorted Array to Balanced BST   
+
+
+### 🎨 ANSI Color Code Chart
+
+| Color         | ANSI Code   |
+|---------------|-------------|
+| Black         | `\033[30m`  |
+| Red           | `\033[31m`  |
+| Green         | `\033[32m`  |
+| Yellow        | `\033[33m`  |
+| Blue          | `\033[34m`  |
+| Magenta       | `\033[35m`  |
+| Cyan          | `\033[36m`  |
+| White         | `\033[37m`  |
+| Bright Black  | `\033[90m`  |
+| Bright Red    | `\033[91m`  |
+| Bright Green  | `\033[92m`  |
+| Bright Yellow | `\033[93m`  |
+| Bright Blue   | `\033[94m`  |
+| Bright Magenta| `\033[95m`  |
+| Bright Cyan   | `\033[96m`  |
+| Bright White  | `\033[97m`  |
+| Reset         | `\033[0m`   |

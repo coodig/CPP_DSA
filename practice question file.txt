@@ -3,3 +3,5 @@
 
 incomplete::
 playground.cpp
+
+Abstract Class & Pure Virtual Function :: incomplete
