@@ -93,3 +93,7 @@ This file contains **10 practice questions for each key OOP concept** up to **po
 10. Demonstrate default constructor not generated when a parameterized constructor exists.
 
 ---
+
+## Misc
+
+1. `Complex numbers`
